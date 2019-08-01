@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.akka.io	TRUE	/	FALSE	1999999999	__cfduid	df8875dc27917489f642e5614ea1391351564654235
+.shields.io	TRUE	/	FALSE	1999999999	__cfduid	d172f6e13b8af0a5e5e6b170bbee0efa71564654357
+
