@@ -1,0 +1,16 @@
+HTTrack3.49-2 launched on Thu, 01 Aug 2019 18:38:01 at https://doc.akka.io/docs/akka/current/index.html
+(httrack -n https://doc.akka.io/docs/akka/current/index.html -r6 )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:47:56	Warning: 	File not parsed, looks like binary: https://doc.akka.io/docs/akka/current/css/fonts/icons.woff2?2
+18:47:56	Warning: 	File not parsed, looks like binary: https://doc.akka.io/docs/akka/current/css/fonts/icons.ttf?2
+18:47:56	Warning: 	File not parsed, looks like binary: https://doc.akka.io/docs/akka/current/css/fonts/proxima-nova-regular.ttf
+18:47:56	Warning: 	File not parsed, looks like binary: https://doc.akka.io/docs/akka/current/css/fonts/source-code-pro-regular.ttf
+18:48:03	Error: 	"Forbidden" (403) at link https://lh4.googleusercontent.com/-z28mTALX90E/UCOsd249TdI/AAAAAAAAAB0/zGyNNZla-zY/w442-h331/akka-beautiful-panorama.jpg (from https://doc.akka.io/docs/akka/current/additional/faq.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 10 minutes 2 seconds : 432 links scanned, 430 files written (23571327 bytes overall) [10916751 bytes received at 18134 bytes/sec], 15715740 bytes transferred using HTTP compression in 337 files, ratio 18%, 12.9 requests per connection
+(1 errors, 4 warnings, 0 messages)

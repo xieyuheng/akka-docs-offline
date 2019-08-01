@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.akka.io	TRUE	/	FALSE	1999999999	__cfduid	dbb179a29bb78689bfd4d3c7f3c1da0f71564655883
+.scalafiddle.io	TRUE	/	FALSE	1999999999	__cfduid	d5e17456aa6dca532c58a198859c378331564656250
+hal.sorbonne-universite.fr	TRUE	/	FALSE	1999999999	PHPSESSID	p80iklo9rhpcgetaeq6ingpu4fn1i828
+hal.inria.fr	TRUE	/	FALSE	1999999999	PHPSESSID	odgju9veslamh8a76h2gfcttef9n6578
+www.manning.com	TRUE	/	FALSE	1999999999	JSESSIONID	11A6DDA98CB8877B8D1A61435429B5FE
+.shields.io	TRUE	/	FALSE	1999999999	__cfduid	d0a19a5313d0a802021dab82349c040df1564656407
+
